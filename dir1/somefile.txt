@@ -1,1 +1,3 @@
 abcdefoobar
+
+some change for git add -p ex
